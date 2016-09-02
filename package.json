@@ -1,5 +1,5 @@
 {
-  "name": "react-dom-compat",
+  "name": "react-dom",
   "version": "0.0.1",
   "description": "`react-dom` stub for people still on React 0.13",
   "main": "index.js",
