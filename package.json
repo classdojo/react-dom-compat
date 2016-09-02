@@ -1,0 +1,19 @@
+{
+  "name": "react-dom-compat",
+  "version": "0.0.1",
+  "description": "`react-dom` stub for people still on React 0.13",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/classdojo/react-dom-compat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/classdojo/react-dom-compat/issues"
+  },
+  "homepage": "https://github.com/classdojo/react-dom-compat#readme"
+}
